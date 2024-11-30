@@ -1,0 +1,21 @@
+{
+  "name": "BITMATICOIN",
+  "website": "https://sites.google.com/view/bitmaticoin,"
+  "description": "BITMATICOIN (BTMTC) is an exclusive digital currency that is given to users as a reward every time they purchase an NFT collection in the Bitmatic collection. Bitmaticoin gives users the flexibility to enhance their experience of collecting NFT collectibles by providing access to exclusive benefits in the Bitmatic collection. Each purchase of an NFT collection will earn users a certain amount of BTMTC, giving them the opportunity to experience additional benefits from each transaction.",
+  "explorer": "https://polygonscan.com/address/0xEBd7aCDa1E03FeDedc5f46e1fc3726FA7d0f7576",
+  "type": "ERC20",
+  "symbol": "BTMTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xEBd7aCDa1E03FeDedc5f46e1fc3726FA7d0f7576",
+  "links": [
+  {
+  "name": "twitter",
+  "url": "https://x.com/iiamm23"
+  },
+  {
+  "name": "telegram",
+  "url": "https://t.me/+0bvK1B5D9ctjODc1"
+  }
+  ]
+  }
